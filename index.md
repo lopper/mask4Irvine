@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Masks for Irvine
 
-You can use the [editor on GitHub](https://github.com/lopper/mask4Irvine/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The covid-19 virus is rapidly spreading through our nation and our community. Just a month ago, it may have seemed that the virus was just a problem on the other side of the world, but now it is here and spreading quickly. We must act now to do all we can to stop its growth and plan for a future where we can resume life without fear of another outbreak. With this hope of getting back to a post-virus life, we should look towards effective methods of slowing the viral growth now and when we get resume life. This site is to argue for a community wide effort to outfit every person with a DIY homemade resuable mask and get people to wear a mask in public/work spaces. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## How does wearing a mask help stop the spread of the covid-19?
 
-### Markdown
+Wearing a mask serves two purposes. A mask can reduce and potentially block the viral load that you inhale around another sick individual. The other purpose is to reduce the likelihood of you un-intentionally infecting others around you when you are asymtomatic. Both these purposes help to reduce the spread of the covid-19 virus. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Is wearing a homemade-mask effective?
 
-```markdown
-Syntax highlighted code block
+Homemade-masks cab be effect at blocking micro particles. Homemade-masks are not as effective as n95 masks, but for the intended purpose of lowering the spread of covid-19 in our community it is still much better than not wearing one at all. In a 2008 research paper, [Professional and Home-Made Face Masks Reduce Exposure to Respiratory Infections among the General Population](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2440799/)  , published in the National Institute of Health, the researchers concluded that “..any type of general mask use is likely to decrease viral exposure and infection risk on a population level, in spite of imperfect fit and imperfect adherence.” Basically, we are much better off  wearing a mask in public.
 
-# Header 1
-## Header 2
-### Header 3
+## How can I make one?
 
-- Bulleted
-- List
+Here are a few videos showing how to create a DIY masks.
 
-1. Numbered
-2. List
+- [DIY Covid-19 Fabric Mask (with Filter Pocket) Sewing Tutorial](https://www.youtube.com/watch?v=S9RWII2-5_4)
 
-**Bold** and _Italic_ and `Code` text
+- [HOW TO MAKE FACE MASK WITH FILTER POCKET AND ADJUSTABLE WIRE | SEWING TUTORIAL](https://www.youtube.com/watch?v=BCJcE-r7kcg)
 
-[Link](url) and ![Image](src)
-```
+- [DIY FACE MASK WITH SLOT FOR FILTER](https://www.youtube.com/watch?v=vTJevg9i7XA )
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lopper/mask4Irvine/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
