@@ -1,1 +1,16 @@
 theme: jekyll-theme-cayman
+
+title: Masks for Irvine
+
+description: Stopping covid-19 with one mask at a time.
+
+author:
+    name:
+
+github:
+    is_project_page: false
+    
+share-links-active:
+    twitter: true
+    facebook: true
+
